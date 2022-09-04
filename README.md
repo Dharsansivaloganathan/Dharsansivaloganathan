@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m @Dharsansivaloganathan<br><br>👀 I’m interested in IOT and Programming<br><br>🌱 I’m currently learning backend<br><br>💬 Ask me about Arduino<br><br>📫 How to reach me dharsan1602@gmail.com ...<br><br>https://www.linkedin.com/in/dharsan-sivaloganathan-a6a0a0201/<br>
+# ✨ About Me:
+👋 Hi, I’m @Dharsansivaloganathan<br><br>👀 I’m interested in IOT and Programming<br><br>🌱 I’m currently learning backend<br><br>💬 Ask me about Arduino<br><br>📫 How to reach me 👇 <br>
 
 
 ## 🌐 Socials:
@@ -12,8 +12,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DharsanSivaloganathan&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DharsanSivaloganathan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DharsanSivaloganathan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=DharsanSivaloganathan&icon=0&color=3)](https://visitcount.itsvg.in)
