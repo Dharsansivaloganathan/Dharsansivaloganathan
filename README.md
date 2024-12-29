@@ -1,5 +1,5 @@
  🍿 About Me:
-👋 Hi, I’m @Dharsansivaloganathan<br><br>👀 I’m interested in IOT and Programming<br><br>🌱 I’m currently learning problem solving DSA <br><br>💬 Ask me about Arduino<br><br>📫 How to reach me 👇 <br>
+👋 Hi, I’m @Dharsansivaloganathan<br><br>👀 Software Engineer <br><br>🌱 Full Stack development <br><br>💬 Ask me about Design and Developement <br><br>📫 How to reach me 👇 <br>
 
  🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhars_an__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dharsan-s-a6a0a0201) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dharsan_sivaloganathan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Dharsan_offl_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UCNmGnhzlLuZRyWIV8mCTYIw) 
